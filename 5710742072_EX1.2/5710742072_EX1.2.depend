@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409135654 source:c:\users\tu-9\documents\github\5710742072_ex1\5710742072\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
